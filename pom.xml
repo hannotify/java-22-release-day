@@ -11,6 +11,7 @@
 
     <modules>
         <module>jep-447-statements-before-super</module>
+        <module>jep-461-stream-gatherers</module>
     </modules>
 
     <dependencies>
